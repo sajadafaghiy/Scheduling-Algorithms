@@ -8,9 +8,9 @@ CPU Scheduling Algorithms Simulator
 
 **Simulation of algorithms:**
 
-First Come First Serve (FCFS)
-Round-Robin (RR)
-Shortest Process Next (SPN)
-Shortest Remaining Time (SRT)
-Highest Response Ratio Next (HRRN)
-Feedback (FB)
+First Come First Serve (FCFS)  
+Round-Robin (RR)  
+Shortest Process Next (SPN)  
+Shortest Remaining Time (SRT)  
+Highest Response Ratio Next (HRRN)  
+Feedback (FB)  
