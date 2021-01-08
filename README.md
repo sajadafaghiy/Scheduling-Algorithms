@@ -2,7 +2,7 @@
 CPU Scheduling Algorithms Simulator
 
 <p align="center">
-  <img src="https://github.com/sajadafaghiy/SchedulingAlgorithms/blob/master/SchedulingAlgorithms/Screenshots/form.jpg" width="600"/>
+  <img src="https://github.com/sajadafaghiy/SchedulingAlgorithms/blob/master/SchedulingAlgorithms/Screenshots/form.jpg"/>
 </p>
 <p align="center">Fig 1. Screenshot of software</p>
 
